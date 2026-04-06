@@ -9,17 +9,17 @@
 
         public void Volume()
         {
-            Console.Write("Qual o comprimento da caixa? :");
+            Console.Write("Qual o comprimento da caixa?:");
             comprimento = Convert.ToDecimal(Console.ReadLine());
 
             Console.WriteLine("");
 
-            Console.Write("Qual o valor da largura da caixa? :");
+            Console.Write("Qual o valor da largura da caixa?:");
             largura = Convert.ToDecimal(Console.ReadLine());
 
             Console.WriteLine("");
 
-            Console.Write("Qual o valor da altura? :");
+            Console.Write("Qual o valor da altura?:");
             altura = Convert.ToDecimal(Console.ReadLine());
 
             v = comprimento * largura * altura;
