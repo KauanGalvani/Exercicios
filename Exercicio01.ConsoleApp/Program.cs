@@ -1,4 +1,4 @@
-﻿namespace Ecercicio01.ConsoleApp
+﻿namespace Ecercicios.ConsoleApp
 {
     class Calculadora
     {
